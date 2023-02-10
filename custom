@@ -4,13 +4,13 @@ local mouse = player:GetMouse()
 bind = "q" 
 mouse.KeyDown:connect(function(key)
 if key == bind then
-game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "😡  S1LV1A  💢"
+game.Players.guiItysouls.Character.Humanoid.DisplayName = "😡  S1LV1A  💢"
 wait(2)
-game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🤪  S1LV1A  🤤"
+game.Players.guiItysouls.Character.Humanoid.DisplayName = "🤪  S1LV1A  🤤"
 wait(2)
-game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🥵  S1LV1A  🔥"
+game.Players.guiItysouls.Character.Humanoid.DisplayName = "🥵  S1LV1A  🔥"
 wait(2)
-game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🍆  S1LV1A  💦"
+game.Players.guiItysouls.Character.Humanoid.DisplayName = "🍆  S1LV1A  💦"
 wait(2)
 game.Players.stopyourscaringme53.Character.Humanoid.DisplayName = "🥵  DRAKE  🎤"
 
