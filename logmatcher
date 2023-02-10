@@ -1,0 +1,27 @@
+-- X NON PAY FULL
+ 
+ 
+userids = {
+[3437985652] = true, -- drake -- 3437985652
+[3648872739] = true, --swervin
+[2714767629] = true, -- kaw aka jay 
+[2884763112] = true, -- noah tester
+[0] = true, -- soulz -- 1069779408
+----------------------------- Below is buyers
+ 
+[63436760] = true, 
+[3308443199] = true,
+[4055764838] = true,
+[2708073315] = true,
+[2826907663] = true, 
+[3499072053] = true,
+[2236215587] = true, 
+[175296637] = true, -- zoro
+[2508769728] = true,
+[3711986600] = true,
+[3065624207] = true, 
+[2644309144] = true,
+[3216714430] = true  -- X
+ 
+}
+return userids
