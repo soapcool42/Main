@@ -7,7 +7,6 @@ userids = {
 [2884763112] = true, -- noah tester
 [0] = true, -- soulz -- 1069779408
 ----------------------------- Below is buyers
- 
 [63436760] = true, 
 [3308443199] = true,
 [4055764838] = true,
@@ -20,7 +19,7 @@ userids = {
 [3711986600] = true,
 [3065624207] = true, 
 [2644309144] = true,
--- ^ 500 ^
+-- ^ 500 ^ --
 
 
 -- v 400 v --
@@ -28,7 +27,7 @@ userids = {
 
 
 
-
+----------------------
 [0] = true -- DONT EDIT
 }
 return userids
