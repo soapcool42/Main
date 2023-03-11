@@ -1,0 +1,21 @@
+userids = {
+[3437985652] = true, -- drake -- 3437985652
+[3648872739] = true, --swervin
+[2714767629] = true, -- kaw aka jay 
+[2884763112] = true, -- noah tester
+[1069779408] = true, -- soulz -- 1069779408
+----------------------------- Below is buyers
+
+
+-- v 400 v --
+[3216714430] = true,  
+[3349204215] = true,
+[1143135506] = true,
+[2468309607] = true,
+[3976004312] = true,
+[340492489] = true,
+[4174134929] = true,
+----------------------
+[0] = true -- DONT EDIT
+}
+return userids
