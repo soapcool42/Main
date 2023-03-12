@@ -1,1 +1,6 @@
-print("AAA")
+game.StarterGui:SetCore("SendNotification", {
+Title = "SCRIPT UPDATED"; 
+Text = "Press F9 to view the features"; 
+Icon = ""; 
+Duration = 15; 
+})
